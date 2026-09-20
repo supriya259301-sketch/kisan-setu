@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1,
+    "name": "Demo Farmer",
+    "mobile": "9876543210",
+    "email": "farmer.demo@kisansetu.in",
+    "password_hash": "3ff98f4b7995f15874911b03ffc074575dd340c8bc56622abbcf755b350c4fa8",
+    "village": "Kishanpur",
+    "district": "Ludhiana",
+    "state": "Punjab",
+    "language": "en",
+    "farm_size_acres": 5,
+    "created_at": "2026-09-15T09:44:35.352Z"
+  },
+  {
+    "id": 1789465479904,
+    "name": "Supriya Yadav",
+    "mobile": "9876543299",
+    "email": "supriya.yadav@example.com",
+    "password_hash": "5c4ef0784b13db3397f2bc25d7fd67f84b133e85db9bc6ce30d57ccfc8258954",
+    "village": "Rampur",
+    "district": "Meerut",
+    "state": "Uttar Pradesh",
+    "language": "hi",
+    "farm_size_acres": 6.5,
+    "created_at": "2026-09-15T09:44:39.904Z"
+  }
+]

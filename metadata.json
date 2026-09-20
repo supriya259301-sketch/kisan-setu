@@ -1,0 +1,6 @@
+{
+  "name": "Kisan Setu - Farmer Market & Logistics Platform",
+  "description": "A comprehensive farmer-centric platform connecting farmers directly to buyers, mandi price comparisons, smart net profit calculator, direct logistics, and shared transportation with multilingual and voice input support.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
